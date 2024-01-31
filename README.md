@@ -8,11 +8,9 @@ Unleash the Power of Django with Automated Tailwind Setup Script for Rapidly Bui
   </a>
 </p>
 
-## Clone or Fork this Repository💙
+## Fork this Repository💙
 - 👀 Before you dive in, make sure that you have Node.js, Git, and Python installed on your computer.
 
-
-## Installation
 
 ## Open your VSCode terminal.
 
