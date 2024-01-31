@@ -33,3 +33,4 @@ Start the development server:
 python manage.py runserver
 ```
 
+![Alt Text](img.png)
