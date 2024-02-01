@@ -8,7 +8,7 @@ Unleash the Power of Django with Automated Tailwind Setup Script for Rapidly Bui
   </a>
 </p>
 
-## Fork this Repository💙
+## Fork this Repository or just copy my code💙
 - 👀 Before you dive in, make sure that you have Node.js, Git, and Python installed on your computer.
 
 
