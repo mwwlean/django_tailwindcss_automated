@@ -1,6 +1,6 @@
 🐍💚💙 automate_setup.py for Django Project with Tailwind
 ---
-Unleash the Power of Django with Automated Tailwind Setup Script for Rapidly Building Modern Websites!✨
+An automated setup for Django project with Tailwind. Handles all setup and configuration automatically.✨
 
 <p align="left">
   <a href="https://skillicons.dev">
